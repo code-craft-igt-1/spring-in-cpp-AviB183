@@ -1,3 +1,4 @@
+#include "pch.h"
 #include "stats.h"
 
 #include "gtest/gtest.h"
